@@ -1,3 +1,3 @@
-# Terraform Azurerm MySQL
+Terraform Azurerm MySQL
 
-## Deploy a MySQL Database with Terraform
+Deploy a MySQL Database with Terraform
