@@ -1,4 +1,4 @@
-Terraform Azurerm MySQL
+Terraform Azurerm MySQL Flexible Server
 ----
 Deploy a MySQL Database with Terraform
 
